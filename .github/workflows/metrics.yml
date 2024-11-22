@@ -20,7 +20,7 @@ jobs:
           # Options
           user: whitelies125
           template: classic
-          base: header, activity, metadata
+          base: header, activity, community
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
