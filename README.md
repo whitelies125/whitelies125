@@ -11,12 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Self Introduction
 
-Coder
-
-C, C++(favor), Lua, Python  
-Vim, Neovim, VsCode  
-Anime, Galgame  
-Harmonica, Piano
+Coder  
+C, C++(favor), Lua, Python | Vim, Neovim, VsCode | Anime, Galgame | Harmonica, Piano
 
 [zhihu](https://www.zhihu.com/people/shan-yi-huang-yan-125), [bilibili](https://space.bilibili.com/8347262)
 
